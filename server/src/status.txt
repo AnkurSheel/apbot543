@@ -1,0 +1,17 @@
+Nov 11, 2009 4:03:40 PM
+Queued Matches
+server:/127.0.0.1 port:0 card file: data/cards/nolimittest0.crd name:nolimittest.NoLimitRandom1.myClient.match0rev resultFile:data/results/nolimittest.NoLimitRandom1.myClient.match0rev.res logFile:data/results/nolimittest.NoLimitRandom1.myClient.match0rev.log serverLogFile:data/serverlog/nolimittest.NoLimitRandom1.myClient.match0rev.srv timePerHand:7000 numHands:1000 numCards:9 limit:DOYLE
+BotTarFile myClient bots\myClient.jar myClient\  WINDOWS LOCALWINDOWS
+BotTarFile NoLimitRandom1 bots\nolimitrandomclient.jar nolimitrandomclient\  WINDOWS LOCALWINDOWS
+no machines yet
+
+Running Matches
+server:/127.0.0.1 port:0 card file: data/cards/nolimittest0.crd name:nolimittest.NoLimitRandom1.myClient.match0fwd resultFile:data/results/nolimittest.NoLimitRandom1.myClient.match0fwd.res logFile:data/results/nolimittest.NoLimitRandom1.myClient.match0fwd.log serverLogFile:data/serverlog/nolimittest.NoLimitRandom1.myClient.match0fwd.srv timePerHand:7000 numHands:1000 numCards:9 limit:DOYLE
+BotTarFile NoLimitRandom1 bots\nolimitrandomclient.jar nolimitrandomclient\  WINDOWS LOCALWINDOWS
+BotTarFile myClient bots\myClient.jar myClient\  WINDOWS LOCALWINDOWS
+127.0.0.1 expansion\expansion2\ WINDOWS
+127.0.0.1 expansion\expansion1\ WINDOWS
+
+Hand Number:0
+Available Machines:0
+Available Machines:0

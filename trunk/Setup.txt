@@ -1,0 +1,17 @@
+change winlocal.prf for approriate bot
+
+put bot in src/client
+
+compile.bat
+copy dist/polerserver.jar examples/my_client
+
+jar cf bots/ mybot.jar -c examples  mybot
+
+
+Usage:java ca.ualberta.cs.poker.free.server.RingServer [-t <MATCHTYPE>| -p1 <IP> <NAME> |-p2 <IP> <NAME> |-c <CARDFILE>|-l <LOGFILE>|-r <RESULTFILE>]*
+
+Ring Server args
+-t HEADSUPNOLIMIT2007 -c data/cards/nolimittest0.crd -l data/results/nolimittest.NoLimitRandom1.myClient.match0fwd.log -r data/results/nolimittest.NoLimitRandom1.myClient.match0fwd.res -p1 127.0.0.1 myClient -p2 127.0.0.1 Random
+
+MyClient and Random Bot Args
+127.0.0.1 30000

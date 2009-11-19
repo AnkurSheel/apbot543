@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Speedrun/Projects/CSCI534/pokerserver2.3.1/dist/pokerserver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Speedrun/Projects/CSCI534/pokerserver2.3.1/thirdparty/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Speedrun/Projects/CSCI534/pokerserver2.3.1/thirdparty/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Speedrun/Projects/CSCI534/pokerserver2.3.1/thirdparty/meerkat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Speedrun/Projects/CSCI534/pokerserver2.3.1/thirdparty/smtp.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

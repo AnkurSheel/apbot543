@@ -436,7 +436,7 @@ public class RingServer extends RingDynamics implements Runnable {
 				showUsage();
 			}
 		}
-		BufferedWriter log = (logFilename.equals("")) ? new BufferedWriter(new OutputStreamWriter(System.out)) : new BufferedWriter(new FileWriter("logFilename"));
+		BufferedWriter log = (logFilename.equals("")) ? new BufferedWriter(new OutputStreamWriter(System.out)) : new BufferedWriter(new FileWriter(logFilename));
 		if (cardFilename.equals("")){
 			System.err.println("ERROR: For now, must provide filename for cards");
 			showUsage();
